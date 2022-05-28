@@ -13,8 +13,7 @@
           },
           width: 300,
         }"
-        value="https://calendar.google.com/event?action=TEMPLATE&tmeid=X2Nscjc4YmJoZXNyNWtsM2pjcDlqOGkyY2NwMTRpcGEwY2xyNmFyamtlY242b3Q5ZWRsZ2cgdGV5ZW5pa2UxQG0&tmsrc=teyenike1%40gmail.com
-"
+        value="https://calendar.google.com/event?action=TEMPLATE&tmeid=MXBxOGg5NThwa2JocjBoZThwczc4dWpoam0gdGV5ZW5pa2UxQG0&tmsrc=teyenike1%40gmail.com"
       ></qrcode>
     </section>
     <footer>
